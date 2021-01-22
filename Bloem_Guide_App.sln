@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bloem_Guide_App", "Bloem_Guide_App.csproj", "{865793C4-C978-44C0-BDCE-A99213C7C463}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{865793C4-C978-44C0-BDCE-A99213C7C463}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{865793C4-C978-44C0-BDCE-A99213C7C463}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{865793C4-C978-44C0-BDCE-A99213C7C463}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{865793C4-C978-44C0-BDCE-A99213C7C463}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {830C8771-E187-4CA5-A56C-934CBDC87C27}
+	EndGlobalSection
+EndGlobal
